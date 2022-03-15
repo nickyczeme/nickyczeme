@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [VitSight](vitsight.com)
 
-- 🌱 I’m currently learning **react and mongo db**
+- 🌱 I’m currently learning **React** and **Mongo Db**
 
-- 📫 How to reach me **nickyczeme@gmail.com**
+- 📫 You can contact me in **nickyczeme@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
