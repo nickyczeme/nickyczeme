@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicky 🌸</h1>
 <h3 align="center">A passionate full-stack developer from Buenos Aires Argentina</h3>
 
-- 🔭 I’m currently working on [VitSight](vitsight.com)
-
-- 🌱 I’m currently learning **react and mongo db**
-
-- 📫 How to reach me **nickyczeme@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
